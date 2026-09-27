@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm gi0 👋
+# Open tools, curious experiments
 
 **Music, radio & an independent web.**
 
@@ -26,17 +26,17 @@ Keep a copy. Make it last.
 
 Instruments you can open and play.
 
-**[mpump ↗](https://mpump.live)** · Drum machine & synth  
-A browser drum machine and synth where the beat lives in the link. Open it, change it, send it back different.  It works on iPhone, iPad, Android, laptop, and desktop wherever there is a modern browser. No install. No account. Free.  
-[▶ mpump.live](https://mpump.live) · [Source](https://github.com/gdamdam/mpump)
+- **[mpump ↗](https://mpump.live)** · Drum machine & synth  
+  A browser drum machine and synth where the beat lives in the link. Open it, change it, send it back different.  It works on iPhone, iPad, Android, laptop, and desktop wherever there is a modern browser. No install. No account. Free.  
+  [▶ mpump.live](https://mpump.live) · [Source](https://github.com/gdamdam/mpump)
 
-**[mdrone ↗](https://mdrone.org)** · Microtonal drone instrument  
-Hold a tone. Let the room evolve.  
-[▶ mdrone.org](https://mdrone.org) · [Source](https://github.com/gdamdam/mdrone)
+- **[mdrone ↗](https://mdrone.org)** · Microtonal drone instrument  
+  Hold a tone. Let the room evolve.  
+  [▶ mdrone.org](https://mdrone.org) · [Source](https://github.com/gdamdam/mdrone)
 
-**[mloop ↗](https://mloop.mpump.live/)** · Loop station & sampler  
-Record, loop, sample, perform. All in your browser.  
-[▶ mloop.mpump.live](https://mloop.mpump.live) · [Source](https://github.com/gdamdam/mloop)
+- **[mloop ↗](https://mloop.mpump.live/)** · Loop station & sampler  
+  Record, loop, sample, perform. All in your browser.  
+  [▶ mloop.mpump.live](https://mloop.mpump.live) · [Source](https://github.com/gdamdam/mloop)
 
 <a name="radio"></a>
 

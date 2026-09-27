@@ -22,21 +22,23 @@ Keep a copy. Make it last.
 
 <a name="music"></a>
 
-### 🎛️ Music in the browser
+### 🎛️ Music tools
 
-Instruments you can open and play.
+Browser instruments and tools for making music.
 
 - **[mpump ↗](https://mpump.live)** · Drum machine & synth  
   A browser drum machine and synth where the beat lives in the link. Open it, change it, send it back different.  It works on iPhone, iPad, Android, laptop, and desktop wherever there is a modern browser. No install. No account. Free.  
-  [▶ mpump.live](https://mpump.live) · [Source](https://github.com/gdamdam/mpump)
+  [Source](https://github.com/gdamdam/mpump)
 
 - **[mdrone ↗](https://mdrone.org)** · Microtonal drone instrument  
   Hold a tone. Let the room evolve.  
-  [▶ mdrone.org](https://mdrone.org) · [Source](https://github.com/gdamdam/mdrone)
+  [Source](https://github.com/gdamdam/mdrone)
 
 - **[mloop ↗](https://mloop.mpump.live/)** · Loop station & sampler  
   Record, loop, sample, perform. All in your browser.  
-  [▶ mloop.mpump.live](https://mloop.mpump.live) · [Source](https://github.com/gdamdam/mloop)
+  [Source](https://github.com/gdamdam/mloop)
+
+- **[padwright](https://github.com/gdamdam/padwright)** — A bank builder for the Roland SP-404MKII.
 
 <a name="radio"></a>
 

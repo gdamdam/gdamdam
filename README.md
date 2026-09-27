@@ -1,6 +1,6 @@
 <div align="center">
 
-# Open tools, curious experiments
+# ✨ Open tools, curious experiments ✨
 
 **Music, radio & an independent web.**
 

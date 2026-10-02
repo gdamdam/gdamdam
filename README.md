@@ -29,7 +29,7 @@ Open protocols. Resilient connections. Knowledge that stays accessible.
 - **[Decentralized web](https://github.com/gdamdam/awesome-decentralized-web)** — Peer-to-peer, federated, and local-first tools.
 - **[Resilient communication](https://github.com/gdamdam/awesome-resilient-communication)** — Staying connected through shutdowns, outages, and off-grid conditions.
 - **[Offline knowledge](https://github.com/gdamdam/awesome-offline-knowledge)** — Resources for keeping knowledge available without the internet.
-- 
+  
 <a name="music"></a>
 
 ### 🎛️ Music tools

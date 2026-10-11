@@ -59,5 +59,6 @@ From raw signals to something you can see.
 - **[Meteor field reports ↗](https://gdamdam.github.io/meteor-satellite-reception/)** — Weather images captured with a garden antenna and SDR.
 - **[nextpass](https://github.com/gdamdam/nextpass)** — Plan satellite reception from the terminal for Meteor-M2-3/4, ISS, Tiangong (CSS), AO-73, RS-44, SO-50, AO-123, AO-91, FO-29, Metop-B/C, Fengyun-3A/3C, GOES-18/19, and Elektro-L 3. Supports NORAD IDs and custom catalogs.
 - **[iqscan](https://github.com/gdamdam/iqscan)** — Find activity in SDR recordings and explore it in an interactive offline report.
+- **[🍏 KALLISTI](https://github.com/gdamdam/kallisti-meshcore-wio-l1pro)** — MeshCore firmware for the Wio Tracker L1 Pro that works without a phone. Read, reply and share your position from the device itself.
 
 

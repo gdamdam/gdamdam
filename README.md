@@ -50,4 +50,4 @@ From raw signals to something you can see.
 - **[Meteor field reports ↗](https://gdamdam.github.io/meteor-satellite-reception/)** — Weather images captured with a garden antenna and SDR.
 - **[nextpass](https://github.com/gdamdam/nextpass)** — Plan satellite passes from the terminal: weather satellites, space stations and ham birds.
 - **[iqscan](https://github.com/gdamdam/iqscan)** — Find activity in SDR recordings and explore it in an offline report.
-- **[🍏 KALLISTI](https://github.com/gdamdam/kallisti-meshcore-wio-l1pro)** — MeshCore firmware for the Wio Tracker L1 Pro. Read, reply and share your position without a phone.
+- **[KALLISTI](https://github.com/gdamdam/kallisti-meshcore-wio-l1pro)** — MeshCore firmware for the Wio Tracker L1 Pro. Read, reply and share your position without a phone.

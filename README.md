@@ -32,7 +32,7 @@ Open protocols. Resilient connections. Knowledge that stays accessible.
 
 <a name="radio"></a>
 
-### 📡 Radio experiments
+### 📡 Radio
 
 From raw signals to something you can see.
 

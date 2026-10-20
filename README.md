@@ -27,7 +27,7 @@ Open protocols. Resilient connections. Knowledge that stays accessible.
 
 Software-defined radio, from band scan to satellite image.
 
-- **[msdr](https://github.com/gdamdam/msdr)** — Discover, decode and listen to signals with SDRconnect: band scans, 20+ decoders, IQ recording and more.
+- **[msdr](https://github.com/gdamdam/msdr)** — Discover, decode and listen to signals with SDRconnect: band scans, 20+ decoders, IQ recording, logs.
 - **[Meteor field reports](https://github.com/gdamdam/meteor-satellite-reception)** — Weather images captured with a garden antenna and SDR. · [Read ↗](https://gdamdam.github.io/meteor-satellite-reception/)
 - **[nextpass](https://github.com/gdamdam/nextpass)** — Plan satellite passes from the terminal: weather satellites, space stations and ham birds.
 - **[iqscan](https://github.com/gdamdam/iqscan)** — Find activity in SDR recordings and explore it in an offline report.

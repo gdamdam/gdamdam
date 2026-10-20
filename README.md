@@ -17,15 +17,15 @@ Tools and experiments in music instruments, radio, electronics, and an independe
 Open protocols. Resilient connections. Knowledge that stays accessible.
 
 - **[iagitup](https://github.com/gdamdam/iagitup)** — Archive any Git repository to the Internet Archive as a portable bundle with rich metadata.
-- **[Decentralized web](https://github.com/gdamdam/awesome-decentralized-web)** — Peer-to-peer, federated, and local-first tools.
-- **[Resilient communication](https://github.com/gdamdam/awesome-resilient-communication)** — Staying connected through shutdowns, outages, and off-grid conditions.
-- **[Offline knowledge](https://github.com/gdamdam/awesome-offline-knowledge)** — Keeping knowledge available without the internet.
+- **[awesome-decentralized-web](https://github.com/gdamdam/awesome-decentralized-web)** — Peer-to-peer, federated, and local-first tools.
+- **[awesome-resilient-communication](https://github.com/gdamdam/awesome-resilient-communication)** — Staying connected through shutdowns, outages, and off-grid conditions.
+- **[awesome-offline-knowledge](https://github.com/gdamdam/awesome-offline-knowledge)** — Keeping knowledge available without the internet.
 
 <a name="radio"></a>
 
 ### 📡 Radio
 
-From raw signals to something you can see.
+Software-defined radio, from band scan to satellite image.
 
 - **[msdr](https://github.com/gdamdam/msdr)** — Discover, decode and listen to signals with SDRconnect: band scans, 20+ decoders, IQ recording and more.
 - **[Meteor field reports](https://github.com/gdamdam/meteor-satellite-reception)** — Weather images captured with a garden antenna and SDR. · [Read ↗](https://gdamdam.github.io/meteor-satellite-reception/)
@@ -36,7 +36,7 @@ From raw signals to something you can see.
 
 ### 🕸️ Mesh
 
-Small radios, no infrastructure. Text and position over LoRa.
+Small radios, no infrastructure.
 
 - **[KALLISTI](https://github.com/gdamdam/kallisti-meshcore-wio-l1pro)** — MeshCore firmware for the Wio Tracker L1 Pro. Read, reply and share your position without a phone.
 - **[Meshgarden](https://github.com/gdamdam/meshgarden)** — A tiny LoRa BBS and network observatory bridging MeshCore and Meshtastic: guestbook, boards, mail and games.

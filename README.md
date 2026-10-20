@@ -52,4 +52,5 @@ Browser instruments and tools for making music.
 - **[mpump ↗](https://mpump.live)** — Drum machine and synth where the beat lives in the link. No install, no account. · [Source](https://github.com/gdamdam/mpump)
 - **[mdrone ↗](https://mdrone.org)** — Microtonal drone instrument. Hold a tone, let the room evolve. · [Source](https://github.com/gdamdam/mdrone)
 - **[mloop ↗](https://mloop.mpump.live/)** — Loop station and sampler. Record, loop, sample, perform. · [Source](https://github.com/gdamdam/mloop)
+- **[spectracanvas](https://github.com/gdamdam/spectracanvas)** — Draw on a spectrogram and hear it: paint sound directly in the frequency domain.
 - **[padwright](https://github.com/gdamdam/padwright)** — Bank builder for the Roland SP-404MKII.

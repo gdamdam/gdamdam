@@ -39,7 +39,7 @@ Software-defined radio, from band scan to satellite image.
 Small radios, no infrastructure.
 
 - **[KALLISTI](https://github.com/gdamdam/kallisti-meshcore-wio-l1pro)** — MeshCore firmware for the Wio Tracker L1 Pro. Read, reply and share your position without a phone.
-- **[Meshgarden](https://github.com/gdamdam/meshgarden)** — A tiny LoRa BBS and network observatory bridging MeshCore and Meshtastic: guestbook, boards, mail and games.
+- **[Meshgarden](https://github.com/gdamdam/meshgarden)** — A tiny LoRa BBS and network observatory bridging MeshCore and Meshtastic: guestbook, boards, mail.
 
 <a name="music"></a>
 

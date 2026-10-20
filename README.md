@@ -6,7 +6,7 @@
 
 Tools, experiments, and rabbit holes in sound, signals, and peer-to-peer systems.
 
-[🗄️ Preservation](#preservation) · [🌐 Independent web](#independent-web) · [📡 Radio](#radio) · [🎛️ Music](#music) 
+[🗄️ Preservation](#preservation) · [🌐 Independent web](#independent-web) · [📡 Radio](#radio) · [🎹 Instruments](#music) · [🎛️ Music tools](#music-tools) 
 
 </div>
 
@@ -45,12 +45,20 @@ From raw signals to something you can see.
 
 <a name="music"></a>
 
-### 🎛️ Music tools
+### 🎹 Music instruments
 
-Browser instruments and tools for making music.
+Browser instruments for making music.
 
 - **[mpump ↗](https://mpump.live)** — Drum machine and synth where the beat lives in the link. No install, no account. · [Source](https://github.com/gdamdam/mpump)
 - **[mdrone ↗](https://mdrone.org)** — Microtonal drone instrument. Hold a tone, let the room evolve. · [Source](https://github.com/gdamdam/mdrone)
 - **[mloop ↗](https://mloop.mpump.live/)** — Loop station and sampler. Record, loop, sample, perform. · [Source](https://github.com/gdamdam/mloop)
+
+<a name="music-tools"></a>
+
+### 🎛️ Music tools
+
+Tools for sound, samplers and synths.
+
 - **[spectracanvas](https://github.com/gdamdam/spectracanvas)** — Draw on a spectrogram and hear it: paint sound directly in the frequency domain.
 - **[padwright](https://github.com/gdamdam/padwright)** — Bank builder for the Roland SP-404MKII.
+- **[dx7-cart-tools](https://github.com/gdamdam/dx7-cart-tools)** — Validate and send DX7 SysEx carts to a Korg volca fm2 or any DX7-compatible synth.
